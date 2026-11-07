@@ -14,7 +14,7 @@ The curriculum is organized into **two synchronized 1-to-1 parallel tracks**:
 
 ---
 
-## 📚 Master Curriculum Syllabus & Reference Appendix (`00`–`12`)
+## 📚 Master Curriculum Syllabus & Reference Appendix (`00`–`13`)
 
 | Ch | Conceptual Track | Python Lab | Part | Core Topics & Key Concepts |
 | :--- | :--- | :--- | :--- | :--- |
@@ -31,6 +31,7 @@ The curriculum is organized into **two synchronized 1-to-1 parallel tracks**:
 | **10** | **[Ch 10](conceptual/10_active_learning_and_experimental_design.ipynb)** | **[Ch 10 (Python)](python/10_active_learning_and_experimental_design.ipynb)** | Part V | Expected Information Gain (EIG), Lindley's 1956 Bayesian Experimental Design, Mutual Information as Acquisition Function, Flaky Test Culprit Localization Case Study |
 | **11** | **[Ch 11](conceptual/11_applied_genomics_and_neural_coding.ipynb)** | **[Ch 11 (Python)](python/11_applied_genomics_and_neural_coding.ipynb)** | Part V | Information in the Genome, Position Weight Matrices (PWMs), Sequence Logos & Relative Entropy (Schneider 1990), Barlow's Efficient Coding Hypothesis in Sensory Neurons |
 | **12** | **[Appendix](conceptual/12_appendix_the_information_theory_rosetta_stone.ipynb)** | **[Appendix (Python)](python/12_appendix_the_information_theory_rosetta_stone.ipynb)** | Reference | The Information Theory Rosetta Stone & Notation Survival Guide: 11 Core Quantities, Venn Geometry, Notation Disambiguation, Reversal Paradox |
+| **13** | **[Appendix](conceptual/13_appendix_information_theory_of_flaky_tests.ipynb)** | **[Appendix (Python)](python/13_appendix_information_theory_of_flaky_tests.ipynb)** | Reference | The Information Theory of Flaky Tests: CI as a DMC Channel, Surprisal Asymmetry, Red Build Entropy Paradox, Repetition Codes, Noisy git bisect & Fano Bound |
 
 ---
 
