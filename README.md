@@ -14,7 +14,7 @@ The curriculum is organized into **two synchronized 1-to-1 parallel tracks**:
 
 ---
 
-## 📚 Master 12-Chapter Syllabus (`00`–`11`)
+## 📚 Master Curriculum Syllabus & Reference Appendix (`00`–`12`)
 
 | Ch | Conceptual Track | Python Lab | Part | Core Topics & Key Concepts |
 | :--- | :--- | :--- | :--- | :--- |
@@ -30,6 +30,7 @@ The curriculum is organized into **two synchronized 1-to-1 parallel tracks**:
 | **09** | **[Ch 09](conceptual/09_rate_distortion_and_information_bottleneck.ipynb)** | **[Ch 09 (Python)](python/09_rate_distortion_and_information_bottleneck.ipynb)** | Part V | Rate-Distortion Theory $R(D)$, Mutual Information Trade-off, The Information Bottleneck Principle (Tishby), $\beta$-VAE as Rate-Distortion Optimization |
 | **10** | **[Ch 10](conceptual/10_active_learning_and_experimental_design.ipynb)** | **[Ch 10 (Python)](python/10_active_learning_and_experimental_design.ipynb)** | Part V | Expected Information Gain (EIG), Lindley's 1956 Bayesian Experimental Design, Mutual Information as Acquisition Function, Flaky Test Culprit Localization Case Study |
 | **11** | **[Ch 11](conceptual/11_applied_genomics_and_neural_coding.ipynb)** | **[Ch 11 (Python)](python/11_applied_genomics_and_neural_coding.ipynb)** | Part V | Information in the Genome, Position Weight Matrices (PWMs), Sequence Logos & Relative Entropy (Schneider 1990), Barlow's Efficient Coding Hypothesis in Sensory Neurons |
+| **12** | **[Appendix](conceptual/12_appendix_the_information_theory_rosetta_stone.ipynb)** | **[Appendix (Python)](python/12_appendix_the_information_theory_rosetta_stone.ipynb)** | Reference | The Information Theory Rosetta Stone & Notation Survival Guide: 11 Core Quantities, Venn Geometry, Notation Disambiguation, Reversal Paradox |
 
 ---
 
